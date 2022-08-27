@@ -1,0 +1,19 @@
+{
+  "name": "rexperigen",
+  "version": "0.0.1",
+  "description": "A redesigned framework for creating linguistic experiments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonyhu-x/rexperigen.git"
+  },
+  "author": "Tony (Juntao) Hu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonyhu-x/rexperigen/issues"
+  },
+  "homepage": "https://github.com/tonyhu-x/rexperigen#readme"
+}
